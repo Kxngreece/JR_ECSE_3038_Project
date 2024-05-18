@@ -1,0 +1,11 @@
+const char* ssid = "CWC-5424394";
+const char* password = ""; 
+const char* fanendpoint = "https://ecse3038-temp-light-lab.onrender.com/api/light";
+const char* tempendpoint = "https://ecse3038-temp-light-lab.onrender.com/api/temp";
+const char* lightendpoint = "https://ecse3038-temp-light-lab.onrender.com/api/temp";
+const char* api_key = "";
+const int led_pin = 2;
+const int temp_sensor = 4;
+const int fan = 23;
+const int light= 22;
+const int pir_sensor= 15;
